@@ -27,9 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-(./images/Screenshot Desktop.png)
-
-(./images/Screenshot Mobile.png)
+!(https://github.com/BeingX234/Product-preview-card-component/blob/main/images/Screenshot%20Desktop.png)
+!(https://github.com/BeingX234/Product-preview-card-component/blob/main/images/Screenshot%20Mobile.png)
 
 ### Links
 
